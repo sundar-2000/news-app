@@ -214,7 +214,6 @@ export default class Source extends React.Component {
 const styles = StyleSheet.create({
   mainbox: {
     flex: 1,
-    marginTop: 25,
     justifyContent: "center",
     alignItems: "center",
   },
