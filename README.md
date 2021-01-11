@@ -13,4 +13,5 @@
 #### Used:
 * News-API 
 * React-native Webview
+* React- Share
 * React-native pull-to-refresh
